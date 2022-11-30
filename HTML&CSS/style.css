@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+}
+
+
+body {
+    background-color: rgb(74, 206, 197);
+    background-image: linear-gradient(rgb(65, 216, 67),rgb(230, 236, 62));
+    font-family: Arial;
+    font-size: 10px;
+    padding: 50px;
+}
+
+h1{
+    font-size: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+h4{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 25px;
+    color: #040306;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+.first{
+    color: rgb(253, 247, 247);
+    text-align: center;
+}
+
+.first1{
+    color: rgb(11, 10, 10);
+}
+
+.second{
+    color: rgb(239, 237, 232);
+    background-image: linear-gradient(rgb(71, 232, 230),rgb(242, 90, 227));
+    border: 2px solid rgb(10, 10, 8);
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+  width: 50%;
+  border: 3px solid rgb(9, 10, 9);
+  padding: 10px;
+}
+
+#your-name{
+    background-color: rgb(71, 232, 230);
+    background-image: linear-gradient(rgb(71, 232, 230),rgb(242, 90, 227));
+    border: 2px solid black;
+    width: 400px;
+    padding: 25px;
+    margin: auto;
+  width: 50%;
+  border: 3px solid rgb(1, 8, 1);
+  padding: 10px;
+}
+
+#HTML-IMAGE{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+input,botton{
+    padding: 5px;
+    font-size: 8px;
+}
+
+a{
+    background-color: yellowgreen;
+}
+
+#your-name h2{
+    color: rgb(200, 229, 142);
+}
